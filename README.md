@@ -22,6 +22,8 @@ Add the follow line in app/assets/javascripts/application.js
 
     //= require eastasianwidth
 
+    eastasianwidth.length("あaいbうcえdおe") // 15
+
 ## Contributing
 
 1. Fork it
